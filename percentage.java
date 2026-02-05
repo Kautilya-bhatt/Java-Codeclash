@@ -1,5 +1,5 @@
 import java.util.Scanner;
-    public class persentage {
+    public class percentage {
         public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
          System.out.println("Enter marks of subject 1:");

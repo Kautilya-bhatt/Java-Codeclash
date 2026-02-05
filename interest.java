@@ -1,9 +1,9 @@
-public class intrest {
-    public static void main(String[] args){
+public class interest {
+    public static void main(String args[]){
         int p=100;
         int r=5;
         int t=2;
-        int si=(p*r*t)/100;
+        float si=(p*r*t)/100;
         System.out.println("Simple Interest = " + si);
     }
 }
