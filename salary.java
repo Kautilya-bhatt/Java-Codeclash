@@ -9,3 +9,7 @@ class salary{
         System.out.println("Gross Salary: "+gsalary);
     }
 }
+
+
+
+
