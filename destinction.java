@@ -12,13 +12,13 @@ public class destinction {
                     System.out.println(" distinction ....... ");
                 }
                 else{
-                    System.out.println(" Pass but not got distinction .......");                }
+                    System.out.println(" Pass but not got distinction .......");                
              }
-             else{
-                System.out.println("Fail");
-
-             }
-          
-        
+         else
+         {
+            System.out.println("Fail");
+         }
+        }
+        }
     }
-}
+

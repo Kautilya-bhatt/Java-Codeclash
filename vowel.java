@@ -14,10 +14,5 @@ public class vowel {
         else{
             System.out.println("Entered character is consonent");
         }
-        
-
-
-        
+         }
     }
-    
-}
