@@ -20,7 +20,5 @@ public class destinction {
             System.out.println("Fail");
          }
         }
-        
-    
-}
+    }
 

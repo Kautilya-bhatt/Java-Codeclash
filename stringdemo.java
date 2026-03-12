@@ -1,4 +1,3 @@
-import java.util.*;
 
 class stringdemo {
     public static void main(String[] args) {
