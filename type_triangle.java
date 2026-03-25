@@ -1,6 +1,6 @@
 import java .util.*;
 
-public class triangle {
+public class type_triangle {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
